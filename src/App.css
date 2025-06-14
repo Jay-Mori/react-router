@@ -1,0 +1,11 @@
+.links{
+  display: flex;
+  justify-content: space-between !important;
+  padding: 20px;
+}
+.link{
+  text-decoration: none;
+  color: black;
+  text-transform: capitalize;
+  font-size: 25px;
+} `       
